@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "packageManager": "pnpm@9.15.0+sha512.76e2379760a4328ec4415815bcd6628dee727af3779aaa4c914e3944156c4299921a89f976381ee107d41f12cfa4b66681ca9c718f0668fa0831ed4c6d8ba56c",
+  "packageManager": "pnpm@10.0.0-beta.2+sha512.d219a39dda2e29a05cc721cb9e31483a79c7b49ffafa8001a25f74ac8c0bb7eea2f2b3f415dc3b65a3a0443acff389f1058ec0efa84e7fdf420684b626004b2a",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
